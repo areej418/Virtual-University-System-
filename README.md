@@ -36,6 +36,8 @@ A desktop-based Virtual University System built using **Java** and **Swing GUI**
 ## 📂 Project Structure
 
 ├── Virtual-UniversitySystem.java # Main Java source file
+
+
 ├── Gui virtual uni system.png # GUI screenshot used in README
 
 ---
@@ -48,8 +50,8 @@ A desktop-based Virtual University System built using **Java** and **Swing GUI**
    git clone https://github.com/areej418/virtual-university-system.git
    cd virtual-university-system
 
-
-##📧 Contact
+---
+## 📧 Contact
 Areej Suleman
 📫 Email: areej987suleman@gmail.com
 🌐 GitHub: areej418
